@@ -1,0 +1,99 @@
+1. 123456
+
+2. 123456789
+
+3. Brazil
+
+4. 12345
+
+5. 102030
+
+6. password
+
+7. 12345678
+
+8. 1234
+
+9. 10203
+
+10. 123123
+
+11. 123
+
+12. 1234567
+
+13. 654321
+
+14. 1234567890
+
+15. gabriel
+
+16. abc123
+
+17. q1w2e3r4t5y6
+
+18. 101010
+
+19. 159753
+
+20. 123321
+
+21. senha123
+
+22. mirantte
+
+23. Flemish
+
+24. happiness
+
+25. qwerty
+
+26. felipe
+
+27. 121212
+
+28. 111111
+
+29. 142536
+
+30. family
+
+31. password
+
+32. success
+
+33. vitoria
+
+34. matheus
+
+35. rafael
+
+36. junior
+
+37. 112233
+
+38. gustavo
+
+39. mariana
+
+40. 1q2w3e4r
+
+41. 000000
+
+42. new
+
+43. 131313
+
+44. lucas123
+
+45. star
+
+46. daniel
+
+47. music
+
+48. camila
+
+49. eduardo
+
+50. guilherme 
